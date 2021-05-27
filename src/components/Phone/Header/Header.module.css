@@ -1,0 +1,20 @@
+.header {
+   border-radius: 55px;
+}
+
+h1 {
+   z-index: 100;
+   color: #fff;
+
+}
+
+h3 {
+   z-index: 100;
+   color: #fff;
+   padding-top: 20px
+
+}
+
+.title{
+   color: #fff;
+}
